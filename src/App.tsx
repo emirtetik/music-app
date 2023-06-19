@@ -25,7 +25,7 @@ function App() {
   };
 
   return (
-    <View style={StyleSheet.container}>
+    <View style={styles.container}>
 
       {/* <State /> */}
       {/* <Lifecycle/> */}
